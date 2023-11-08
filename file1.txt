@@ -13,3 +13,5 @@ Scaler School of Technology
 SST
 Software Engineers.
 Gaurav is awesome.
+
+Scaler is awesome
